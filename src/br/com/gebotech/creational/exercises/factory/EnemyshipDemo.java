@@ -1,8 +1,4 @@
-package br.com.gebotech.exercises.factory;
-
-import br.com.gebotech.factory.Website;
-import br.com.gebotech.factory.WebsiteFactory;
-import br.com.gebotech.factory.WebsiteType;
+package br.com.gebotech.creational.exercises.factory;
 
 public class EnemyshipDemo {
 
